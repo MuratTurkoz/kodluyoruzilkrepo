@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.com)Front-End Eğitimde oluşturduğ
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+' git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git '
 
 # Usage
 
@@ -18,6 +18,7 @@ Linux için:
 
 ````cd kodluyoruzilkrepo
 code . ```
+
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
