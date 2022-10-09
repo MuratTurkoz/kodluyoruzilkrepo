@@ -30,7 +30,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 
 [MIT](https://www.mit.com)
-
-```
-
-```
